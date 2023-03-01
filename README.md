@@ -1,9 +1,9 @@
-### <h1 align="center">Hi 👋, I'm o Leandro Santos</h1>
-<h3 align="center">Profissional da área de dados</h3>
+### <h1 align="center">Meu nome é Leandro Santos</h1>
+<h3 align="center">Profissional de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
-- 💬 Me pergunte sobre **SQL, Power BI, SSAS, SSIS,Excel e Python**
+- 💬 Me pergunte sobre **SQL, Power BI, SSAS, SSIS, Excel e Python**
 
 - 📫 Você me acha **lsleo22@gmail.com**
 
